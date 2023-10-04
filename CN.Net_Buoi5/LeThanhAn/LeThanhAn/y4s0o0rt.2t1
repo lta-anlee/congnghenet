@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace LeThanhAn
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        int a, b;
+
+        private void Form1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_c_Click(object sender, EventArgs e)
+        {
+            int so_a = Convert.ToInt32(txt_a.Text);
+            int so_b = Convert.ToInt32(txt_b.Text);
+            Double kq = Convert.ToDouble(txt_kq.Text);
+            if(so_a==null && so_b==null)
+            {
+                MessageBox.Show("Vui long nhap so khac 0");
+            }
+            else
+            {
+qư                 kq = so_a + so_b;
+            }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+       
+    }
+}

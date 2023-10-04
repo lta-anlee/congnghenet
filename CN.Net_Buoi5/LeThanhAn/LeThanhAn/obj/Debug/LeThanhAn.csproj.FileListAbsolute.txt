@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\LeThanhAn-2001207166\CN.Net_Buoi5\LeThanhAn\LeThanhAn\bin\Debug\LeThanhAn.exe.config
+E:\LuuDuLieuSinhVien\LeThanhAn-2001207166\CN.Net_Buoi5\LeThanhAn\LeThanhAn\obj\Debug\LeThanhAn.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\LeThanhAn-2001207166\CN.Net_Buoi5\LeThanhAn\LeThanhAn\obj\Debug\LeThanhAn.Form1.resources
+E:\LuuDuLieuSinhVien\LeThanhAn-2001207166\CN.Net_Buoi5\LeThanhAn\LeThanhAn\obj\Debug\LeThanhAn.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\LeThanhAn-2001207166\CN.Net_Buoi5\LeThanhAn\LeThanhAn\obj\Debug\LeThanhAn.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\LeThanhAn-2001207166\CN.Net_Buoi5\LeThanhAn\LeThanhAn\bin\Debug\LeThanhAn.exe
+E:\LuuDuLieuSinhVien\LeThanhAn-2001207166\CN.Net_Buoi5\LeThanhAn\LeThanhAn\bin\Debug\LeThanhAn.pdb
+E:\LuuDuLieuSinhVien\LeThanhAn-2001207166\CN.Net_Buoi5\LeThanhAn\LeThanhAn\obj\Debug\LeThanhAn.exe
+E:\LuuDuLieuSinhVien\LeThanhAn-2001207166\CN.Net_Buoi5\LeThanhAn\LeThanhAn\obj\Debug\LeThanhAn.pdb

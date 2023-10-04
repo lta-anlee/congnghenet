@@ -1,0 +1,9 @@
+E:\LUUDULIEUSINHVIEN\2001207120_MaiNgocKhang_Tuan3\2001207120_maingockhang\DTO\bin\Debug\DTO.dll
+E:\LUUDULIEUSINHVIEN\2001207120_MaiNgocKhang_Tuan3\2001207120_maingockhang\DTO\bin\Debug\DTO.pdb
+E:\LUUDULIEUSINHVIEN\2001207120_MaiNgocKhang_Tuan3\2001207120_maingockhang\DTO\obj\Debug\DTO.dll
+E:\LUUDULIEUSINHVIEN\2001207120_MaiNgocKhang_Tuan3\2001207120_maingockhang\DTO\obj\Debug\DTO.pdb
+E:\LuuDuLieuSinhVien\lethanhan-2001207166\2001207120_MaiNgocKhang_Tuan3\2001207120_maingockhang\DTO\bin\Debug\DTO.dll
+E:\LuuDuLieuSinhVien\lethanhan-2001207166\2001207120_MaiNgocKhang_Tuan3\2001207120_maingockhang\DTO\bin\Debug\DTO.pdb
+E:\LuuDuLieuSinhVien\lethanhan-2001207166\2001207120_MaiNgocKhang_Tuan3\2001207120_maingockhang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\lethanhan-2001207166\2001207120_MaiNgocKhang_Tuan3\2001207120_maingockhang\DTO\obj\Debug\DTO.dll
+E:\LuuDuLieuSinhVien\lethanhan-2001207166\2001207120_MaiNgocKhang_Tuan3\2001207120_maingockhang\DTO\obj\Debug\DTO.pdb

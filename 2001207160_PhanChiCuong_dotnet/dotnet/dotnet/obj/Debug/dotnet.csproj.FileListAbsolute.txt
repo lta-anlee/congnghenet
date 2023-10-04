@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\2001207160_PhanChiCuong_dotnet\dotnet\dotnet\bin\Debug\dotnet.exe.config
+E:\LuuDuLieuSinhVien\2001207160_PhanChiCuong_dotnet\dotnet\dotnet\bin\Debug\dotnet.exe
+E:\LuuDuLieuSinhVien\2001207160_PhanChiCuong_dotnet\dotnet\dotnet\bin\Debug\dotnet.pdb
+E:\LuuDuLieuSinhVien\2001207160_PhanChiCuong_dotnet\dotnet\dotnet\obj\Debug\dotnet.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001207160_PhanChiCuong_dotnet\dotnet\dotnet\obj\Debug\dotnet.Form1.resources
+E:\LuuDuLieuSinhVien\2001207160_PhanChiCuong_dotnet\dotnet\dotnet\obj\Debug\dotnet.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001207160_PhanChiCuong_dotnet\dotnet\dotnet\obj\Debug\dotnet.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2001207160_PhanChiCuong_dotnet\dotnet\dotnet\obj\Debug\dotnet.exe
+E:\LuuDuLieuSinhVien\2001207160_PhanChiCuong_dotnet\dotnet\dotnet\obj\Debug\dotnet.pdb
